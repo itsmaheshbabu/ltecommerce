@@ -7,8 +7,13 @@ def app()
 
 def version()
     pass
-    
+
 def login():
     pass
+
 def logout():
     pass
+
+def start_app():
+    pass  
+
