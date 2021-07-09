@@ -5,3 +5,7 @@ this is a test floder
 include code
 
 import code 
+
+def python_app():
+    pass
+
