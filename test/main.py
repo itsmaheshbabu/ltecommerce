@@ -7,3 +7,6 @@ def test_start_app():
     
 def_login():
     pass
+
+def test_logout():
+    pass
